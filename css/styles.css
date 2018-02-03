@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  font-family: fantasy;
+
+}
+
+p {
+  text-align: center;
+
+}
+
+.jumbotron {
+  margin-top: 5cm;
+}
+
+
+#under18 {
+  display: none;
+}
+
+#age18 {
+  display: none;
+}
+
+#over18 {
+  display: none;
+}
